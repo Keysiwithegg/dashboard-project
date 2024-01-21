@@ -7,6 +7,6 @@
     box-sizing: border-box;
     /*font-family: 'Montserrat', sans-serif;*/
     font-family: 'Raleway', sans-serif;
-    transform: .3s ease;
-    background: blue;
+    transition: .3s ease;
+    background: red;
 }
