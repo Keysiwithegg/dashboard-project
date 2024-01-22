@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./bottom.css";
 
-import Chart from "react-apexcharts";
+import Chart from "react-apexcharts"
 
 const Bottom = () => {
   const [state, setState] = useState({
